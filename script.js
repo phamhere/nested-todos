@@ -4,5 +4,6 @@ const todos = [{ id: 0, title: 'test', completed: false, nested: [] }];
 
 const App = {
   create: function() {},
-  delete: function() {}
+  delete: function() {},
+  update: function() {}
 };
